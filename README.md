@@ -29,7 +29,7 @@ const kina = {
   project:  "📺 Kina Bilibili / 🎮 Kina Steam / 🔗 社交登录",
   loves:    ["百合文学 🌸", "二次元 📺", "Steam 游戏 🎮", "B站追番"],
   motto:    "「コードを書く、物語を紡ぐ」 ♡",
-  fun_fact: "在 yuri.fan 自研博客系统，kina.ink 是 WP 站",
+  fun_fact: "写百合小说的程序员，debug 和改稿一样折磨",
 }
 ```
 
