@@ -5,11 +5,11 @@
 <br />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&style=for-the-badge&color=FFB6D9&label=%F0%9F%8C%B8+visitors" />
-  <a href="https://github.com/你的GitHub用户名?tab=followers">
-    <img src="https://img.shields.io/github/followers/你的GitHub用户名?style=for-the-badge&color=FFC8DD&logo=github&logoColor=white&labelColor=FF87C8&label=%F0%9F%8E%80+followers" />
+  <img src="https://komarev.com/ghpvc/?username=muyi3919&style=for-the-badge&color=FFB6D9&label=%F0%9F%8C%B8+visitors" />
+  <a href="https://github.com/muyi3919?tab=followers">
+    <img src="https://img.shields.io/github/followers/muyi3919?style=for-the-badge&color=FFC8DD&logo=github&logoColor=white&labelColor=FF87C8&label=%F0%9F%8E%80+followers" />
   </a>
-  <img src="https://img.shields.io/github/stars/你的GitHub用户名?style=for-the-badge&color=FFE5F1&logo=apachespark&logoColor=white&labelColor=FFB6D9&label=%E2%AD%90+stars" />
+  <img src="https://img.shields.io/github/stars/muyi3919?style=for-the-badge&color=FFE5F1&logo=apachespark&logoColor=white&labelColor=FFB6D9&label=%E2%AD%90+stars" />
 </p>
 
 </div>
@@ -41,8 +41,8 @@ const kina = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FF87C8&text_color=8B5CF6" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=8B5CF6&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=muyi3919&show_icons=true&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FF87C8&text_color=8B5CF6" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyi3919&layout=compact&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=8B5CF6&langs_count=8" />
 
 </div>
 
@@ -56,13 +56,13 @@ const kina = {
 
 <div align="center">
 
-<a href="https://github.com/你的GitHub用户名/kina-bilibili-integration">
+<a href="https://github.com/muyi3919/kina-bilibili-integration">
   <img src="https://img.shields.io/badge/Bilibili%20集成-FFB6D9?style=for-the-badge&logo=bilibili&logoColor=white&labelColor=FF87C8" />
 </a>
-<a href="https://github.com/你的GitHub用户名/kina-steam-integration">
+<a href="https://github.com/muyi3919/kina-steam-integration">
   <img src="https://img.shields.io/badge/Steam%20展示-FFC8DD?style=for-the-badge&logo=steam&logoColor=white&labelColor=FFB6D9" />
 </a>
-<a href="https://github.com/你的GitHub用户名/kina-social-login">
+<a href="https://github.com/muyi3919/kina-social-login">
   <img src="https://img.shields.io/badge/社交登录-FFE5F1?style=for-the-badge&logo=openid&logoColor=white&labelColor=FFC8DD" />
 </a>
 
