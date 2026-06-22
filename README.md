@@ -100,7 +100,7 @@ const kina = {
 
 <div align="center">
 
-<a href="https://github.com/你的GitHub用户名">
+<a href="https://github.com/muyi3919">
   <img src="https://img.shields.io/badge/GitHub-FFB6D9?style=for-the-badge&logo=github&logoColor=white&labelColor=FF87C8" />
 </a>
 <a href="https://kina.ink">
