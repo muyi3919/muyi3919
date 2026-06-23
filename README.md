@@ -5,11 +5,11 @@
 <br />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=muyi3919&style=for-the-badge&color=FFB6D9&label=%F0%9F%8C%B8+visitors" />
+  <img src="https://komarev.com/ghpvc/?username=muyi3919&style=for-the-badge&color=C084FC&label=%F0%9F%8C%B8+visitors" />
   <a href="https://github.com/muyi3919?tab=followers">
-    <img src="https://img.shields.io/github/followers/muyi3919?style=for-the-badge&color=FFC8DD&logo=github&logoColor=white&labelColor=FF87C8&label=%F0%9F%8E%80+followers" />
+    <img src="https://img.shields.io/github/followers/muyi3919?style=for-the-badge&color=D8B4FE&logo=github&logoColor=white&labelColor=A855F7&label=%F0%9F%8E%80+followers" />
   </a>
-  <img src="https://img.shields.io/github/stars/muyi3919?style=for-the-badge&color=FFE5F1&logo=apachespark&logoColor=white&labelColor=FFB6D9&label=%E2%AD%90+stars" />
+  <img src="https://img.shields.io/github/stars/muyi3919?style=for-the-badge&color=F3E8FF&logo=apachespark&logoColor=white&labelColor=C084FC&label=%E2%AD%90+stars" />
 </p>
 
 </div>
@@ -41,8 +41,8 @@ const kina = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=muyi3919&show_icons=true&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=FF87C8&text_color=8B5CF6" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyi3919&layout=compact&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=8B5CF6&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=muyi3919&show_icons=true&theme=radical&hide_border=true&bg_color=F5F3FF&title_color=7C3AED&icon_color=A855F7&text_color=6B21A8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyi3919&layout=compact&theme=radical&hide_border=true&bg_color=F5F3FF&title_color=7C3AED&text_color=6B21A8&langs_count=8" />
 
 </div>
 
@@ -57,13 +57,13 @@ const kina = {
 <div align="center">
 
 <a href="https://github.com/muyi3919/kina-bilibili-integration">
-  <img src="https://img.shields.io/badge/Bilibili%20集成-FFB6D9?style=for-the-badge&logo=bilibili&logoColor=white&labelColor=FF87C8" />
+  <img src="https://img.shields.io/badge/Bilibili%20集成-C084FC?style=for-the-badge&logo=bilibili&logoColor=white&labelColor=A855F7" />
 </a>
 <a href="https://github.com/muyi3919/kina-steam-integration">
-  <img src="https://img.shields.io/badge/Steam%20展示-FFC8DD?style=for-the-badge&logo=steam&logoColor=white&labelColor=FFB6D9" />
+  <img src="https://img.shields.io/badge/Steam%20展示-D8B4FE?style=for-the-badge&logo=steam&logoColor=white&labelColor=C084FC" />
 </a>
 <a href="https://github.com/muyi3919/kina-social-login">
-  <img src="https://img.shields.io/badge/社交登录-FFE5F1?style=for-the-badge&logo=openid&logoColor=white&labelColor=FFC8DD" />
+  <img src="https://img.shields.io/badge/社交登录-F3E8FF?style=for-the-badge&logo=openid&logoColor=7C3AED&labelColor=D8B4FE" />
 </a>
 
 </div>
@@ -79,13 +79,13 @@ const kina = {
 <div align="center">
 
 <a href="https://kina.ink">
-  <img src="https://img.shields.io/badge/kina.ink-WP%20博客-FFB6D9?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=FF87C8" />
+  <img src="https://img.shields.io/badge/kina.ink-WP%20博客-C084FC?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=A855F7" />
 </a>
 <a href="https://yuri.fan">
-  <img src="https://img.shields.io/badge/yuri.fan-自研博客-FFC8DD?style=for-the-badge&logo=react&logoColor=white&labelColor=FFB6D9" />
+  <img src="https://img.shields.io/badge/yuri.fan-自研博客-D8B4FE?style=for-the-badge&logo=react&logoColor=white&labelColor=C084FC" />
 </a>
 <a href="https://api.kina.ink">
-  <img src="https://img.shields.io/badge/api.kina.ink-API%20集成-FFE5F1?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=FFC8DD" />
+  <img src="https://img.shields.io/badge/api.kina.ink-API%20集成-F3E8FF?style=for-the-badge&logo=fastapi&logoColor=7C3AED&labelColor=D8B4FE" />
 </a>
 
 </div>
@@ -101,13 +101,44 @@ const kina = {
 <div align="center">
 
 <a href="https://github.com/muyi3919">
-  <img src="https://img.shields.io/badge/GitHub-FFB6D9?style=for-the-badge&logo=github&logoColor=white&labelColor=FF87C8" />
+  <img src="https://img.shields.io/badge/GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=A855F7" />
 </a>
 <a href="https://kina.ink">
-  <img src="https://img.shields.io/badge/Blog-kina.ink-FFC8DD?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=FFB6D9" />
+  <img src="https://img.shields.io/badge/Blog-kina.ink-D8B4FE?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=C084FC" />
 </a>
 <a href="https://yuri.fan">
-  <img src="https://img.shields.io/badge/yuri.fan-FFE5F1?style=for-the-badge&logo=react&logoColor=white&labelColor=FFC8DD" />
+  <img src="https://img.shields.io/badge/yuri.fan-F3E8FF?style=for-the-badge&logo=react&logoColor=7C3AED&labelColor=D8B4FE" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+</div>
+
+## 🚀 Latest Projects
+
+<!-- 使用 GitHub Readme Stats 的 pin 功能自动展示最新项目 -->
+<div align="center">
+
+<a href="https://github.com/muyi3919/kina-bilibili-integration">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muyi3919&repo=kina-bilibili-integration&hide_border=true&bg_color=F5F3FF&title_color=7C3AED&icon_color=A855F7&text_color=6B21A8" />
+</a>
+<a href="https://github.com/muyi3919/kina-steam-integration">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muyi3919&repo=kina-steam-integration&hide_border=true&bg_color=F5F3FF&title_color=7C3AED&icon_color=A855F7&text_color=6B21A8" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/muyi3919/kina-social-login">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muyi3919&repo=kina-social-login&hide_border=true&bg_color=F5F3FF&title_color=7C3AED&icon_color=A855F7&text_color=6B21A8" />
+</a>
+<a href="https://github.com/muyi3919/qingmo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muyi3919&repo=qingmo&hide_border=true&bg_color=F5F3FF&title_color=7C3AED&icon_color=A855F7&text_color=6B21A8" />
 </a>
 
 </div>
