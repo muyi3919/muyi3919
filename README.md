@@ -24,9 +24,9 @@
 
 ```typescript
 const kina = {
-  identity: ["🌸 百合小说作者", "💻 WordPress 插件开发者", "🎀 前端 + PHP"],
+  identity: ["🌸 百合小说作者", "💻 WordPress 插件开发者", "🎀 前端 + PHP", "📜 纯文件博客作者"],
   current:  "🚀 折腾 WordPress 插件 & 写百合小说",
-  project:  "📺 Kina Bilibili / 🎮 Kina Steam / 🔗 社交登录",
+  project:  "📺 Kina Bilibili / 🎮 Kina Steam / 🔗 社交登录 / 📝 轻墨博客 / 🔊 Edge TTS",
   loves:    ["百合文学 🌸", "二次元 📺", "Steam 游戏 🎮", "B站追番"],
   motto:    "「コードを書く、物語を紡ぐ」 ♡",
   fun_fact: "写百合小说的程序员，debug 和改稿一样折磨",
@@ -64,6 +64,12 @@ const kina = {
 </a>
 <a href="https://github.com/muyi3919/kina-social-login">
   <img src="https://img.shields.io/badge/社交登录-F3E8FF?style=for-the-badge&logo=openid&logoColor=7C3AED&labelColor=D8B4FE" />
+</a>
+<a href="https://github.com/muyi3919/Qingmo">
+  <img src="https://img.shields.io/badge/轻墨博客-C084FC?style=for-the-badge&logo=markdown&logoColor=white&labelColor=A855F7" />
+</a>
+<a href="https://github.com/muyi3919/edge-tts-api">
+  <img src="https://img.shields.io/badge/Edge%20TTS%20API-D8B4FE?style=for-the-badge&logo=python&logoColor=white&labelColor=C084FC" />
 </a>
 
 </div>
@@ -137,8 +143,16 @@ const kina = {
 <a href="https://github.com/muyi3919/kina-social-login">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=muyi3919&repo=kina-social-login&hide_border=true&bg_color=F5F3FF&title_color=7C3AED&icon_color=A855F7&text_color=6B21A8" />
 </a>
-<a href="https://github.com/muyi3919/qingmo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muyi3919&repo=qingmo&hide_border=true&bg_color=F5F3FF&title_color=7C3AED&icon_color=A855F7&text_color=6B21A8" />
+<a href="https://github.com/muyi3919/Qingmo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muyi3919&repo=Qingmo&hide_border=true&bg_color=F5F3FF&title_color=7C3AED&icon_color=A855F7&text_color=6B21A8" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/muyi3919/edge-tts-api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muyi3919&repo=edge-tts-api&hide_border=true&bg_color=F5F3FF&title_color=7C3AED&icon_color=A855F7&text_color=6B21A8" />
 </a>
 
 </div>
