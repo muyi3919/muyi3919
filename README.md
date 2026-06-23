@@ -56,12 +56,6 @@ const kina = {
 
 <div align="center">
 
-<a href="https://github.com/muyi3919/kina-bilibili-integration">
-  <img src="https://img.shields.io/badge/Bilibili%20集成-C084FC?style=for-the-badge&logo=bilibili&logoColor=white&labelColor=A855F7" />
-</a>
-<a href="https://github.com/muyi3919/kina-steam-integration">
-  <img src="https://img.shields.io/badge/Steam%20展示-D8B4FE?style=for-the-badge&logo=steam&logoColor=white&labelColor=C084FC" />
-</a>
 <a href="https://github.com/muyi3919/kina-social-login">
   <img src="https://img.shields.io/badge/社交登录-F3E8FF?style=for-the-badge&logo=openid&logoColor=7C3AED&labelColor=D8B4FE" />
 </a>
