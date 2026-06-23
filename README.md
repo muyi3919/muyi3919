@@ -82,7 +82,7 @@ const kina = {
   <img src="https://img.shields.io/badge/kina.ink-WP%20博客-C084FC?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=A855F7" />
 </a>
 <a href="https://yuri.fan">
-  <img src="https://img.shields.io/badge/yuri.fan-自研博客-D8B4FE?style=for-the-badge&logo=react&logoColor=white&labelColor=C084FC" />
+  <img src="https://img.shields.io/badge/yuri.fan-轻墨 -D8B4FE?style=for-the-badge&logo=react&logoColor=white&labelColor=C084FC" />
 </a>
 <a href="https://api.kina.ink">
   <img src="https://img.shields.io/badge/api.kina.ink-API%20集成-F3E8FF?style=for-the-badge&logo=fastapi&logoColor=7C3AED&labelColor=D8B4FE" />
