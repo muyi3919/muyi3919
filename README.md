@@ -2,7 +2,7 @@
   <img src="assets/wave.svg" alt="wave" width="100%" height="120" />  
 </p>
 
-<h1 align="center">嗨，我是 muyi3919 👋</h1>
+<h1 align="center">嗨，我是 kina 👋</h1>
 
 <p align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=3500\&pause=1000\&center=true\&vCenter=true\&multiline=true\&width=720\&height=70\&lines=%E4%B8%80%E4%B8%AA%E3%80%8C%E5%8D%8A%E5%90%8A%E5%AD%90%E3%80%8D%E5%BC%80%E5%8F%91%E8%80%85;%E4%BB%80%E4%B9%88%E9%83%BD%E9%BC%93%E6%90%8F%E4%B8%80%E7%82%B9%EF%BC%8C%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E7%B2%BE%E9%80%9A" alt="Typing SVG" />  
@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 关于我
 
-> 我是 **muyi3919**（网名 **Kina**），一个自封的「半吊子」开发者——啥都摸一点，啥都不算精通。
+> 我是 **Kina**，一个「半吊子」开发者——啥都摸一点，啥都不算精通。
 
 - 🔧 用 **PHP** 写点零依赖的小工具，**Python** 写点自动化脚本，偶尔折腾 **WordPress** 插件
 - 💡 信奉 **「能跑就行，越小越好」**：偏爱无框架、不连数据库、解压即用的东西
